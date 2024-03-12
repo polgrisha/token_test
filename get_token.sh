@@ -4,5 +4,5 @@ while true
     do
         python get_token.py
         git commit -am "change token"
-        git push
+        git push origin main
     done
