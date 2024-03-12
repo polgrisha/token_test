@@ -2,7 +2,6 @@ import requests
 import time 
 import json
 
-time.sleep(600)
 url = "https://ngw.devices.sberbank.ru:9443/api/v2/oauth"
 
 payload='scope=GIGACHAT_API_PERS'
